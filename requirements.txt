@@ -1,0 +1,15 @@
+# Bibliotecas principais para processamento de embeddings
+ollama>=0.1.0
+
+# Bibliotecas para manipulação de vetores e busca por similaridade
+numpy>=1.24.0
+faiss-cpu>=1.7.4
+
+# Biblioteca para tokenização e chunking de texto
+tiktoken>=0.5.0
+
+# Biblioteca para conversão de PDF para Markdown
+docling>=1.0.0
+
+# Bibliotecas padrão do Python (não precisam ser instaladas):
+# os, json, sys, re - fazem parte da biblioteca padrão do Python
