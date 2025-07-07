@@ -10,6 +10,8 @@
     - Instale os modelos utilizados pelo PowerShell (altere para o modelo de sua preferência):
       - nomic-embed-text:latest (embedding generator)
       - phi3.5:latest (LLM utilizada)
+ 
+  - Crie 3 pastas, elas são: "mdPath", "pdfPath", "embeddings"
         
   - Coloque o pdf de sua preferência na pasta pdfPath
     
